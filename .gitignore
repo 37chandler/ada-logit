@@ -1,3 +1,6 @@
+trip_scoring_data.txt
+*.zip
+
 # History files
 .Rhistory
 .Rapp.history
